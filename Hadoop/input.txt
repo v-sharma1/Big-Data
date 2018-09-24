@@ -1,0 +1,7 @@
+this is a word count program
+to test basic map reduce
+operations in hadoop
+hadoop rocks and lets hope
+this program will run
+successfully
+
